@@ -1,4 +1,4 @@
-# [Исследование объявлений о продаже квартир](https://github.com/asolovov/asolovov_portfolio/tree/main/yandex_real_estate)
+# [Исследование объявлений о продаже квартир](https://github.com/asolovov/asolovov_portfolio/blob/main/yandex_real_estate/yandex_real_estate.ipynb)
 
 ### Цель исследования:
 Необходимо научиться определять рыночную стоимость объектов недвижимости. Задача — установить параметры. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность.
