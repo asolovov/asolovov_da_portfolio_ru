@@ -1,4 +1,4 @@
-# Исследование лога пользовательской активности Яндекс.Музыки
+# [Исследование лога пользовательской активности Яндекс.Музыки](https://github.com/asolovov/asolovov_portfolio/blob/main/yandex_music/yandex_music_p.ipynb)
 
 ### Цель исследования:
 
